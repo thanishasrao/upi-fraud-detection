@@ -1,0 +1,6 @@
+*.csv
+__pycache__/
+*.pyc
+.streamlit/
+fraud_model.pkl
+*.zip
